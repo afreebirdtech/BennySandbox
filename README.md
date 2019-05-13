@@ -3,14 +3,15 @@ Hi I will be using this repository to keep track and upload my code. This will a
 
 ## What you'll need to run this project
 
+Then you will need to install pip. You can do so at this link https://pip.pypa.io/en/stable/
+
+After you have installed pip open up the command prompt
+
 If you're using a windows computer first enter 
 `cmd`
 into search bar to bring up the command prompt
 
-Then you will need to install pip. You can do so at this link https://pip.pypa.io/en/stable/
-After you have installed pip enter this command into your command prompt
-
-`pip install Django`
+Enter `pip install Django`
 
 ## To clone a local version of this repository on to your computer
 Enter this command into your command prompt
