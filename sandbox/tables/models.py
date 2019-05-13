@@ -3,7 +3,8 @@ from django.conf import settings
 from phone_field import PhoneField
 from django.utils import timezone
 
-
+#I understand why this array may be important, but why is it in the tables file? (Initially) - LG
+# I see your use of it in a model, but I don't believe that this hardcode is necessary. Appropriate for application features, but for scalability & clean code there is another solution - LG
 WEEKDAYS = [
   (1, ("Monday")),
   (2, ("Tuesday")),
